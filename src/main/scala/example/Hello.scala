@@ -1,7 +1,7 @@
 package example
 
 object Hello extends Greeting with App {
-  println(greeting)
+  println(greeting + "z master")
 }
 
 trait Greeting {
