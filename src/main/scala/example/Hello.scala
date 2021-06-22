@@ -10,6 +10,5 @@ trait Greeting {
   lazy val greeting: String =
     "hello, " +
     "first commit, " +
-    "bugFix branch" +
-    "reversing"
+    "bugFix branch"
 }
