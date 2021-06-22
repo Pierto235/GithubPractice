@@ -2,6 +2,7 @@ package example
 
 object Hello extends Greeting with App {
   println(greeting + "z master")
+  val r = "rebasing in bugFix"
 }
 
 trait Greeting {
